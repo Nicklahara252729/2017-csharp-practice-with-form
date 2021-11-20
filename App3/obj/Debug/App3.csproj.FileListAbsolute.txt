@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\bin\Debug\App3.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\bin\Debug\App3.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\bin\Debug\App3.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\obj\Debug\App3.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\obj\Debug\App3.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\obj\Debug\App3.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\obj\Debug\App3.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\obj\Debug\App3.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App3\obj\Debug\App3.login.resources

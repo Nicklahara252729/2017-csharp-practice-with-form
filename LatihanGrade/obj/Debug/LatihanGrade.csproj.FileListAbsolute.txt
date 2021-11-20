@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\bin\Debug\LatihanGrade.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\bin\Debug\LatihanGrade.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\bin\Debug\LatihanGrade.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\obj\Debug\LatihanGrade.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\obj\Debug\LatihanGrade.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\obj\Debug\LatihanGrade.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\obj\Debug\LatihanGrade.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\obj\Debug\LatihanGrade.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\obj\Debug\LatihanGrade.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanGrade\obj\Debug\LatihanGrade.proses.resources

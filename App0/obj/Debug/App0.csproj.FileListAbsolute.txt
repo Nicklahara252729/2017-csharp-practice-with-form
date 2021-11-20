@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\bin\Debug\App0.exe.config
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\bin\Debug\App0.exe
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\bin\Debug\App0.pdb
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.exe
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.pdb
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.Form2.resources
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.Form3.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.MainMenu.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.SplashScreen.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\App0\obj\Debug\App0.SplashDotNetBar.resources

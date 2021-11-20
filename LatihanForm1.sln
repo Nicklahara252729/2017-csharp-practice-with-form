@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanFormSatu", "LatihanFormSatu\LatihanFormSatu.csproj", "{670110FB-AB43-443B-83B0-14928C86C851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App0", "App0\App0.csproj", "{08BF0E89-19FD-4F9F-BF19-82F46B76CBEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanGrade", "LatihanGrade\LatihanGrade.csproj", "{76DA6CA7-CCB7-4BA7-ABC4-2F9227B6FD12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanKalkulator", "LatihanKalkulator\LatihanKalkulator.csproj", "{E6CEA764-086E-47D2-93D1-A8135E4B77B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App3", "App3\App3.csproj", "{3A507FE8-7512-46AA-8694-89C33371EFBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetBarApps", "DotNetBarApps\DotNetBarApps.csproj", "{E79BAAB5-4C88-4ED8-873F-0167D6397985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670110FB-AB43-443B-83B0-14928C86C851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670110FB-AB43-443B-83B0-14928C86C851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670110FB-AB43-443B-83B0-14928C86C851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670110FB-AB43-443B-83B0-14928C86C851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BF0E89-19FD-4F9F-BF19-82F46B76CBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BF0E89-19FD-4F9F-BF19-82F46B76CBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BF0E89-19FD-4F9F-BF19-82F46B76CBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BF0E89-19FD-4F9F-BF19-82F46B76CBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DA6CA7-CCB7-4BA7-ABC4-2F9227B6FD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DA6CA7-CCB7-4BA7-ABC4-2F9227B6FD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DA6CA7-CCB7-4BA7-ABC4-2F9227B6FD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DA6CA7-CCB7-4BA7-ABC4-2F9227B6FD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CEA764-086E-47D2-93D1-A8135E4B77B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CEA764-086E-47D2-93D1-A8135E4B77B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CEA764-086E-47D2-93D1-A8135E4B77B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CEA764-086E-47D2-93D1-A8135E4B77B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A507FE8-7512-46AA-8694-89C33371EFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A507FE8-7512-46AA-8694-89C33371EFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A507FE8-7512-46AA-8694-89C33371EFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A507FE8-7512-46AA-8694-89C33371EFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79BAAB5-4C88-4ED8-873F-0167D6397985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79BAAB5-4C88-4ED8-873F-0167D6397985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79BAAB5-4C88-4ED8-873F-0167D6397985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79BAAB5-4C88-4ED8-873F-0167D6397985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

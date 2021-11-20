@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.exe.config
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.exe
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.pdb
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.exe
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.pdb
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FrmMahasiswa.resources
+c:\users\user\documents\visual studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.frmmatakuliah.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.nilai.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.login.resources

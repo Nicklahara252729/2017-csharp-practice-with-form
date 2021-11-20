@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanKalkulator\bin\Debug\LatihanKalkulator.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanKalkulator\bin\Debug\LatihanKalkulator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanKalkulator\bin\Debug\LatihanKalkulator.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanKalkulator\obj\Debug\LatihanKalkulator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanKalkulator\obj\Debug\LatihanKalkulator.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanKalkulator\obj\Debug\LatihanKalkulator.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanKalkulator\obj\Debug\LatihanKalkulator.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanKalkulator\obj\Debug\LatihanKalkulator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanForm1\LatihanKalkulator\obj\Debug\LatihanKalkulator.pdb

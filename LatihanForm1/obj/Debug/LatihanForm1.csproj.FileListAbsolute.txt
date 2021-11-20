@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanForm1\bin\Debug\LatihanForm1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanForm1\bin\Debug\LatihanForm1.exe
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanForm1\bin\Debug\LatihanForm1.pdb
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanForm1\obj\Debug\LatihanForm1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanForm1\obj\Debug\LatihanForm1.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanForm1\obj\Debug\LatihanForm1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanForm1\obj\Debug\LatihanForm1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanForm1\obj\Debug\LatihanForm1.exe
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanForm1\obj\Debug\LatihanForm1.pdb

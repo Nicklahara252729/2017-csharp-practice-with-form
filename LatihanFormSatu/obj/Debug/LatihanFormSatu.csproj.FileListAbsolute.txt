@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\bin\Debug\LatihanFormSatu.exe.config
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\bin\Debug\LatihanFormSatu.exe
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\bin\Debug\LatihanFormSatu.pdb
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\obj\Debug\LatihanFormSatu.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\obj\Debug\LatihanFormSatu.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\obj\Debug\LatihanFormSatu.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\obj\Debug\LatihanFormSatu.exe
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\obj\Debug\LatihanFormSatu.pdb
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\obj\Debug\LatihanFormSatu.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\LatihanForm1\LatihanFormSatu\obj\Debug\LatihanFormSatu.convert.resources
